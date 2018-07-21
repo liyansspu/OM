@@ -1,6 +1,6 @@
 # OM
 A course on Operations Management.
-Taught on-campus at [HSE](http://en.sspu.edu.cn)  and maintained to be friendly to online students (both english and russian).
+Taught on-campus at [SPU](http://en.sspu.edu.cn)  and maintained to be friendly to online students (both english and russian).
 
 
 #### Manifesto:
