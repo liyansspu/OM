@@ -89,8 +89,8 @@ The course is ideal for learners working in organizations, or who would like to 
 Course Outline 
 The major topics covered in this course are: 
 1.	Operations management
-Key teaching objectives
-	To enthuse students with the `hands-on' excitement that can be gained from an understanding of operations management (`... I want to prevent you ever enjoying a theatre performance, restaurant meal, or shopping experience ever again. I want you continually to be looking for the operations implications of every operation you enter. You are going to be turned into sad people who cannot go anywhere without thinking of how you could improve the processes). 
+*Key teaching objectives
+*	To enthuse students with the `hands-on' excitement that can be gained from an understanding of operations management (`... I want to prevent you ever enjoying a theatre performance, restaurant meal, or shopping experience ever again. I want you continually to be looking for the operations implications of every operation you enter. You are going to be turned into sad people who cannot go anywhere without thinking of how you could improve the processes). 
 	Convince students that all organizations really do have an operations function, therefore operations management is relevant to every organization. 
 	Convince students that all managers are operations managers because all managers manage processes to produce outputs. (`Even marketing managers are operations managers. What you learn as marketing in business school is really the "technical" side of marketing. Of course this is important, but marketing managers also have to produce marketing reports and information, without mistakes in them, on time, relatively quickly, flexibly enough to contain the latest information, and without using an army of marketing analysts to do so. In other words, they are producing services for internal customers').
 	To introduce the some key ideas in the chapter, namely:
